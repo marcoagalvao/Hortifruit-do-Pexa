@@ -6,11 +6,11 @@ Projeto feito com o intuito de praticar o react, mais especificamente o gerencia
 | -------------  | --- |
 | :sparkles: Nome        | **HortiFruit do Pexa**
 | :label: Tecnologias | react, html, css, javascript, contextAPI
-| :rocket: URL         | https://praticando-react-router-dom.vercel.app
+| :rocket: URL         | 
 | :fire: Desafio     | https://cursos.alura.com.br/course/react-context-estados-globais-contextapi
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://i.im.ge/2023/02/09/aN4Bvc.Screenshot-1.png#vitrinedev)
+![](https://i.im.ge/2023/02/15/akkGIr.Screenshot-1.png#vitrinedev)
 
 ## Detalhes do projeto
 
